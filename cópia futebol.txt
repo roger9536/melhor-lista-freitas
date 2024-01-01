@@ -1,0 +1,77 @@
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="SPORT.TV1	
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV1_HD/index.m3u8/S!d2EJVFZPU19MaXZlEgJU.v...wEWBJ8_/Level(5242880)
+#EXTINF:-1 tvg-id="Benfica tv
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Benfica_TV_1_HD/index.m3u8/S!d2EJVFZPU19MaXZlEgJU.v...wEWBJ8_/Level(5242880)
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 1
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
+#EXTINF:-1 tvg-id=SPORT.TV2
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV2_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
+#EXTINF:-1 tvg-id=SPORT.TV3
+https://tvembed.net/spt3/tracks-v1a1/mono.m3u8?remote=77.54.27.119&token=22bd3965306770d33da04cc85c559c4c57cc3a59-d463fc26b23c2897ad8eaad566035ec7-1704025264-1704018064
+#EXTINF:-1 tvg-id=SONY MOVIES
+https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/1475/1475-3-main.m3u8
+#EXTINF:-1 tvg-id=MYTIME MOVIE
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-id=HBO XTREME
+https://tvembed.net/hbo-xtreme/tracks-v1a1/mono.m3u8?remote=77.54.27.119&token=39f8d5b6504babb9353262640cf17ebc08eab9c0-d8c4a761a6642392ecc3912a4aa278a9-1704025926-1704018726
+#EXTINF:-1 tvg-id=Cine Suspense	
+https://tvembed.net/filme-suspense/tracks-v1a1/mono.m3u8?remote=77.54.27.119&token=8265f6d4ce9345021bf0f7569188222219677415-0028681ae7cea0f9b5e66e57b31c9e77-1704114112-1704106912
+#EXTINF:-1 tvg-id=TNT	
+https://tvembed.net/tnt/tracks-v1a1/mono.m3u8?remote=77.54.27.119&token=e0fbd4f0f746ff71555c9b6217d7680b0e2f20e9-d805fa96a8c714d05efd1d3de0751b70-1704114222-1704107022
+#EXTINF:-1 tvg-id=AXN
+https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/278/278-3-main.m3u8
+#EXTINF:-1 tvg-id=Cine Terror 	
+https://tvembed.net/filme-terror/tracks-v1a1/mono.m3u8?remote=77.54.27.119&token=4d1e1ba0527301cea63286b0b45cc4d3cb20cf9a-ac26e674fd71d33e576564d661e566db-1704114475-1704107275
+#EXTINF:-1 tvg-id=Telecine Premium
+https://tvembed.net/tc-premium/tracks-v1a1/mono.m3u8?remote=77.54.27.119&token=087902795222eefedcb852492735c6ab216f5d3a-80987035281ce4333e3c0615dddb1de5-1704114599-1704107399
+#EXTINF:-1 tvg-id=Cine Nacionais	
+https://tvembed.net/filme-nacionais/tracks-v1a1/mono.m3u8?remote=77.54.27.119&token=bf8a10aba662ac1982390312d0af379528b7ad97-47e04307f64f722758dcdb144803a449-1704114693-1704107493
+#EXTINF:-1 tvg-id=Cine Canal	
+https://tvembed.net/cine-canal/tracks-v1a1/mono.m3u8?remote=77.54.27.119&token=d13db615ee5b8f05885a1f936cd55dd4a529e8f0-ec50b92e0436f2471648715752821dfe-1704114787-1704107587
+#EXTINF:-1 tvg-id=AMC 
+https://tvembed.net/amc/tracks-v1a1/mono.m3u8?remote=77.54.27.119&token=06ab92ecb6cfd3e12bda770e3f3e1b63b1a59222-15a665b1d244909ec049dfaaff343d52-1704114872-1704107672
+#EXTINF:-1 tvg-id=Telecine Pipoca	
+https://tvembed.net/tc-pipoca/tracks-v1a1/mono.m3u8?remote=77.54.27.119&token=b89af549cd4bfc65f52caa07bf64bcbba8bbf74a-0101a6bada5d1b45c7c452a696085a3e-1704114980-1704107780
+#EXTINF:-1 tvg-id=Warner Bros
+https://tvembed.net/warner/tracks-v1a1/mono.m3u8?remote=77.54.27.119&token=0529349b6d9a12e59b15ed4dc6c32dfe976bdf64-ea6f6b1471c52d173ad2bb8ae285a937-1704115384-1704108184
+#EXTINF:-1 tvg-id=Megapix 	
+https://tvembed.net/megapix/tracks-v1a1/mono.m3u8?remote=77.54.27.119&token=f0ecb757ba0150cf9298fb9c9043b411bbf68a39-bbb48bccf6376cfa709b713051c8b357-1704115545-1704108345
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://raw.githubusercontent.com/roger9536/MELHORCANAIS/main/MELHOR%20CANAIS.txt
